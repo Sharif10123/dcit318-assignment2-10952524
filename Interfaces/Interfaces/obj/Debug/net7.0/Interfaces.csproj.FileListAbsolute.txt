@@ -1,0 +1,15 @@
+/Users/mac/Projects/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/mac/Projects/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/mac/Projects/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/mac/Projects/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/mac/Projects/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/mac/Projects/Interfaces/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll
