@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceMethodOverriding", "InheritanceMethodOverriding\InheritanceMethodOverriding.csproj", "{F22360B6-3043-4DFE-80DE-5E66C6D8A3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22360B6-3043-4DFE-80DE-5E66C6D8A3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22360B6-3043-4DFE-80DE-5E66C6D8A3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22360B6-3043-4DFE-80DE-5E66C6D8A3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22360B6-3043-4DFE-80DE-5E66C6D8A3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCAD5F2-7262-44D5-BCAF-6FED100E225B}
+	EndGlobalSection
+EndGlobal

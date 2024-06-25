@@ -1,0 +1,15 @@
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/bin/Debug/net7.0/InheritanceMethodOverriding
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/bin/Debug/net7.0/InheritanceMethodOverriding.deps.json
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/bin/Debug/net7.0/InheritanceMethodOverriding.runtimeconfig.json
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/bin/Debug/net7.0/InheritanceMethodOverriding.dll
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/bin/Debug/net7.0/InheritanceMethodOverriding.pdb
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.csproj.AssemblyReference.cache
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.AssemblyInfoInputs.cache
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.AssemblyInfo.cs
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.dll
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/refint/InheritanceMethodOverriding.dll
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.pdb
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/InheritanceMethodOverriding.genruntimeconfig.cache
+/Users/mac/Projects/InheritanceMethodOverriding/InheritanceMethodOverriding/obj/Debug/net7.0/ref/InheritanceMethodOverriding.dll
