@@ -1,0 +1,15 @@
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/bin/Debug/net7.0/AbstractClassesMethods
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/bin/Debug/net7.0/AbstractClassesMethods.deps.json
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/bin/Debug/net7.0/AbstractClassesMethods.runtimeconfig.json
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/bin/Debug/net7.0/AbstractClassesMethods.dll
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/bin/Debug/net7.0/AbstractClassesMethods.pdb
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.csproj.AssemblyReference.cache
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.AssemblyInfoInputs.cache
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.AssemblyInfo.cs
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.dll
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/refint/AbstractClassesMethods.dll
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.pdb
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/AbstractClassesMethods.genruntimeconfig.cache
+/Users/mac/Projects/AbstractClassesMethods/AbstractClassesMethods/obj/Debug/net7.0/ref/AbstractClassesMethods.dll
